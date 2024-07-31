@@ -1,5 +1,12 @@
 # Data Science for Fixed Income
 
+
+This is an Academic project Postgraduate in Data Science made in collaboration with my colleagues below:
+
+- https://github.com/Przon | [Fernando Reis]
+- https://github.com/lfbr0 | [Luis Ribeiro]
+- https://github.com/renato747 | [Renato Morais]
+
 ## Study Case I
 
 ### Overview
